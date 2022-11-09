@@ -3,8 +3,8 @@
  msg: caractere
 
  inicio
-  msg <- "Olá mundo,"
-  escreval (msg, " Me livrei da maldição!")
+  msg <- "Ola mundo,"
+  escreval (msg, " Me livrei da maldiï¿½ï¿½o!")
 
   
  fimalgoritmo
